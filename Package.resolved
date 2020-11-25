@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "CryptoSwift2",
+        "repositoryURL": "https://github.com/luyantao/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "7120892e871a22e7bcdcc9c067645aa56caef3b1",
+          "version": "1.3.8"
+        }
+      },
+      {
         "package": "Datable",
         "repositoryURL": "https://github.com/OperatorFoundation/Datable.git",
         "state": {
