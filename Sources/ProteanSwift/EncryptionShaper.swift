@@ -7,7 +7,7 @@
 
 import Foundation
 import Security
-import CryptoSwift
+import CryptoSwift2
 
 // A packet shaper that encrypts the packets with AES CBC.
 public struct EncryptionShaper
